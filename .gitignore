@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+/tables/
+/fresh/
+/fixed-run/
+/example-run/
+/wp-check/
+/checkpoints/
+/original-connections.zip

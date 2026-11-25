@@ -1,0 +1,29 @@
+{
+  "coordinate_audits": [
+    {
+      "sample": "A",
+      "period_pairing_error": 6.466036496704425e-15,
+      "conormal_relative_error": 1.476658392882528e-14,
+      "first_jet_check": 9.635914423174259e-14,
+      "second_jet_check": 8.242204462413848e-12
+    },
+    {
+      "sample": "B",
+      "period_pairing_error": 4.255211271505921e-15,
+      "conormal_relative_error": 1.8096920733758124e-15,
+      "first_jet_check": 2.3603665272841414e-14,
+      "second_jet_check": 5.199925988378469e-12
+    },
+    {
+      "sample": "C",
+      "period_pairing_error": 8.66845330553337e-15,
+      "conormal_relative_error": 2.6741376667199275e-15,
+      "first_jet_check": 3.1389285920852735e-14,
+      "second_jet_check": 5.226226654153675e-12
+    }
+  ],
+  "real_connection_product_metric_error": 0.0,
+  "successful_metric_records": 404,
+  "max_newton_residual": 1.0307598399356089e-13,
+  "max_gauss_bonnet_bookkeeping_error": 2.6751934001367772e-11
+}

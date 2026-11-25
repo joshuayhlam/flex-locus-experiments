@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this release when using the programs or data for Section 6."
+title: "Three numerical experiments on the flex locus"
+authors:
+  - family-names: Lam
+    given-names: Yeuk Hay Joshua
+version: 1.0.0
+repository-code: "https://github.com/joshuayhlam/flex-locus-experiments"
+url: "https://github.com/joshuayhlam/flex-locus-experiments/releases/tag/v1.0.0"

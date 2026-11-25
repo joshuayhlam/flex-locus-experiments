@@ -1,0 +1,128 @@
+{
+  "base": "A",
+  "control": false,
+  "level": "F",
+  "target": "flex_b1",
+  "mesh": {
+    "N": 64,
+    "R": 6.25e-05,
+    "ntheta": 80,
+    "ratio": 1.18
+  },
+  "solver": {
+    "success": true,
+    "message": "Newton-Krylov gradient tolerance met",
+    "iterations": 3,
+    "energy_initial": 16.784335300486536,
+    "energy": 16.73581283753629,
+    "gradient_inf": 1.3951940189098344e-10,
+    "initial_gradient_inf": 0.021185957254469617,
+    "gradient_check_error": 2.6343478616509992e-08,
+    "return_point_distance_max": 0.024577816791906563,
+    "return_point_distance_rms": 0.005528840461041541,
+    "negative_weights": 4208,
+    "newton_gradient_history": [
+      0.0002352956072207979,
+      2.7560177341678926e-07,
+      1.3951940189098344e-10
+    ],
+    "seconds": 6.074174880981445
+  },
+  "measurement": {
+    "extraction_degree": 2,
+    "extraction_rings": 2,
+    "hopf_coefficients": [
+      [
+        0.02957501639604349,
+        0.00042027661737857456
+      ],
+      [
+        0.00203344424188776,
+        0.0016921550002345373
+      ],
+      [
+        -3.747675848211358e-06,
+        -4.078842628648939e-06
+      ]
+    ],
+    "pencil_defect": 0.00096442078295653,
+    "holomorphic_fit_residual": 0.08392087484034302,
+    "hopf_gram": [
+      [
+        [
+          12.858972000299328,
+          3.513687280810137e-18
+        ],
+        [
+          54.94465593274545,
+          -17.381112640045377
+        ],
+        [
+          -0.027441590104569594,
+          0.0022982373607965197
+        ]
+      ],
+      [
+        [
+          54.94465593274545,
+          17.381112640045373
+        ],
+        [
+          827.8921455085537,
+          2.8447273503319235e-17
+        ],
+        [
+          -0.10077178972129076,
+          -0.013891585625511639
+        ]
+      ],
+      [
+        [
+          -0.027441590104569525,
+          -0.0022982373607961363
+        ],
+        [
+          -0.10077178972129165,
+          0.013891585625469395
+        ],
+        [
+          771.2111916882441,
+          -6.882447603331122e-17
+        ]
+      ]
+    ],
+    "fitted_hopf_norm": 0.15950053329748828,
+    "discarded_algebraic_component": [
+      -3.747675848211358e-06,
+      -4.078842628648939e-06
+    ],
+    "normal_serre_pairing": [
+      0.03149467691773006,
+      0.03612291196463469
+    ],
+    "normalized_fibre_defect": 0.0002843710355819918,
+    "beta_L2": 168.52886140361335,
+    "omitted_faces": 3,
+    "branch_faces": 3,
+    "faces": 106536,
+    "omitted_flat_area": 6.932835129727771e-05,
+    "min_opposite_overlap": 0.8647405863652949,
+    "max_link_phase": 0.0038022616707100603,
+    "eigenline_fit_median": 0.003725321179184472,
+    "eigenline_fit_95": 0.004445488122423697,
+    "seconds": 13.45996618270874
+  },
+  "representation_sha256": "055505e91daf3793b7afeff04ec67ef859d4f4f3a4a2da4a26e9b81bc0d8fc8b",
+  "boundary_model": "fitted_parabolic_horocycle",
+  "status": "exact_isomonodromy_source_membership_approximate",
+  "flex_parameters": [
+    [
+      0.229,
+      1.082
+    ],
+    [
+      5.02,
+      2.025
+    ]
+  ]
+}

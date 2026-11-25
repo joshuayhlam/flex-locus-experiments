@@ -1,0 +1,23 @@
+[
+  {
+    "nodes": 160,
+    "radius": 6.247590738252952e-05,
+    "boundary_distance_max": 0.0016512799493247751,
+    "nilpotent_error": 3.290082888034943e-14,
+    "trace_error": 2.9865257312748966e-14
+  },
+  {
+    "nodes": 160,
+    "radius": 6.247590738251983e-05,
+    "boundary_distance_max": 0.0010791029291650433,
+    "nilpotent_error": 1.5334418506084084e-13,
+    "trace_error": 1.59703372821985e-14
+  },
+  {
+    "nodes": 160,
+    "radius": 6.247590738252154e-05,
+    "boundary_distance_max": 0.0007942725892262923,
+    "nilpotent_error": 9.900124400419438e-15,
+    "trace_error": 9.373991106814336e-15
+  }
+]
